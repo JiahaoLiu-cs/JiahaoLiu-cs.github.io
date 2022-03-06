@@ -1,10 +1,6 @@
-## Welcome to My Homepage!
-
-
-
 ### About Me
-Recommender Systems.  
-- **email**: jiahaoliu21@m.fudan.edu.cn
+I am currently a master's student in Fudan University. My supervisor is Professor Gu Ning and is mainly guided by teacher [Li Dongsheng](http://recmind.cn/). My research interests is recommender systems. Before coming to Fudan, I had an internship in the ByteDance for 8 months.  
+**email**: jiahaoliu21@m.fudan.edu.cn
 
 ### Publications
 - FIRE: Fast Incremental Recommendation with Graph Signal Processing  
