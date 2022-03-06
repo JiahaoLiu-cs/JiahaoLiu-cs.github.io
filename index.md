@@ -1,7 +1,7 @@
 ## Welcome to My Homepage!
 
 ### Contact Me
-- email: [jiahaoliu21@m.fudan.edu.cn]
+- jiahaoliu21@m.fudan.edu.cn
 
 ### About Me
 Recommender Systems.
