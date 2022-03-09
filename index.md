@@ -1,4 +1,4 @@
-## Chiahao Liu's Homepage
+## Jiahao Liu's Homepage
 
 ### About Me
 I am currently a master's student in Fudan University. My supervisor is Professor [Ning Gu](https://cscw.fudan.edu.cn/ninggu/list.htm) and is mainly guided by [Dongsheng Li](http://recmind.cn/). My research interests are machine learning, graph data mining and recommender systems. Before coming to Fudan, I had an internship in the ByteDance for 8 months.  
