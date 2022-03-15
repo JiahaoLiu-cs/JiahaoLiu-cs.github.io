@@ -9,4 +9,4 @@ I am currently a master's student in Fudan University. I am supervised by [Prof.
 ### Publications
 - FIRE: Fast Incremental Recommendation with Graph Signal Processing  
 Jiafeng Xia, Dongsheng Li, Hansu Gu, **Jiahao Liu**, Tun Lu and Ning Gu.  
-The Web Conference (WWW), 2022. ***(CCF A)*** [Paper Link](), [Code](https://github.com/Yaveng/FIRE).
+The Web Conference (WWW), 2022, ***(CCF A)***. [Paper Link](), [Code](https://github.com/Yaveng/FIRE).
